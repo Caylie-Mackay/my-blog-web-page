@@ -1,0 +1,39 @@
+h1, h3, a {
+  font-family: Verdana, Geneva, Tahoma, sans-serif; 
+  text-align: center;
+}
+html, body {
+    margin: 0;
+    height: 100%;
+}
+body {
+    width: 100%;
+    background-color:blueviolet;
+    background-image: url(./images/background2.jpg);
+    padding: 0 0 0 0;
+    height: 100%;
+}
+h1 {
+padding-top: 225px;
+padding-bottom: 0;
+font-size:40px;
+}
+h3 {
+font-size: 15px;
+}
+a {
+    padding: 15px;
+    font-size: 20px;
+    text-decoration: none;
+}
+a:link {
+    color: black;
+}
+a:visited {
+    color: black;
+}
+.links {
+    text-align: center;
+    background-color:blanchedalmond;
+    padding: 10px;
+}
